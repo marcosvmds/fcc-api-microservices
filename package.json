@@ -9,6 +9,7 @@
     "Microservices"
   ],
   "main": "index.js",
+  "browser": "index.js",
   "dependencies": {
   },
   "scripts": {
