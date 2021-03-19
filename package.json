@@ -3,7 +3,14 @@
   "author": "Marcos Mazzei",
   "version": "1.0.0",
   "description": "This project is part of my studies on freeCodeCamp platform",
+  "keywords": [
+    "freecodecamp",
+    "API",
+    "Microservices"
+  ],
   "main": "index.js",
+  "dependencies": {
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
